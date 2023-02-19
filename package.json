@@ -1,0 +1,26 @@
+{
+  "name": "FE-Interview",
+  "version": "1.0.0",
+  "description": "前端面试题合集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "前端面试合集",
+    "HTML",
+    "CSS",
+    "JS",
+    "TS",
+    "Vue2",
+    "Vue3",
+    "前端性能优化",
+    "网络基础"
+  ],
+  "author": {
+"name": "凌天Alioth",
+"email": "2844520415@qq.com",
+"url": "https://akexc.com"
+  },
+  "license": "ISC"
+}
